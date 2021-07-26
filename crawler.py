@@ -125,4 +125,3 @@ if __name__ == '__main__':
     pool = Pool()
     pool.map(main, [i*10 for i in range(25)])
     #main(254)
-{"mode":"full","isActive":false}
